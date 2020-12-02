@@ -15,6 +15,5 @@ npm run serve
 npm run build
 ```
 
-# Deploy vuetify with docker 
-### Customize configuration
+# Deploy vuetify with docker
 See [Configuration Reference](https://cli.vuejs.org/guide/deployment.html#docker-nginx).
