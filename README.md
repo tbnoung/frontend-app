@@ -1,4 +1,4 @@
-# demo
+# Create vue.js
 
 ## Project setup
 ```
@@ -15,5 +15,6 @@ npm run serve
 npm run build
 ```
 
+# Deploy vuetify with docker 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/guide/deployment.html#docker-nginx).
